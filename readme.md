@@ -16,7 +16,7 @@ We learned all about neural networks:
 
 Trained using the MNIST dataset:
 
-![Example Dataset](src/MNIST_dataset_example.png "Example Dataset")
+![Example Dataset](src/MNIST_dataset_example.png "Example MNIST Dataset")
 
 Our best training results had an accuracy of 97.11%
 
