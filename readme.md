@@ -1,4 +1,4 @@
-# A neural network that trains to identify handwritten numbers 0-9
+# A neural network trained to identify handwritten numbers 0-9
 
 Trained using the MNIST dataset:
 
