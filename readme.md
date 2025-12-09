@@ -1,4 +1,4 @@
-# A neural network trained to identify handwritten numbers 0-9
+# [A neural network trained to identify handwritten numbers 0-9](/)
 
 Developed with two classmates, Angelo and Winry, as part of a class project.
 We learned all about neural networks:
